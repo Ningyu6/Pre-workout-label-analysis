@@ -1,4 +1,4 @@
-# Pre-workout-label-analysis
+# Pre-workout Ingredients and Label Transparency
 # Overview
 Analysis of Ingredient patterns and dosage disclosure in pre-workout supplement labels
 
