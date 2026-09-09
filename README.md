@@ -1,9 +1,9 @@
 # Pre-workout-label-analysis
-##Overview
+Overview
 Analysis of Ingredient patterns and dosage disclosure in pre-workout supplement labels
 
-##Data Source
+Data Source
 NIH Dietary Supplement Label Database (DSLD)
 
-##Files
+Files
 -'Pre-workout_label_analysis': data cleaning and statistical analysis
