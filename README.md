@@ -6,4 +6,6 @@ Analysis of Ingredient patterns and dosage disclosure in pre-workout supplement 
 NIH Dietary Supplement Label Database (DSLD)
 
 # Files
--'Pre-workout_label_analysis': data cleaning and statistical analysis
+-'Preworkout_label_analysis': data cleaning and statistical analysis
+-'Preworkout_label_metrics.csv':label-level analytical dataset
+-'Preworkout_label_ingredients.csv': ingredients-level analytical dataset
