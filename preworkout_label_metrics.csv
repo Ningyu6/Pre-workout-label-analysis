@@ -1,0 +1,395 @@
+DSLD ID,Product Name,ingredient_count,fully_disclosed_count,partially_disclosed_count,not_disclosed_count,disclosure_rate_strict,disclosure_rate_any,disclosure_band,disclosure_band_order,fully_disclosed_flag
+10324,N.O. Overload Pre-Workout Formula Pounding Punch Flavor,12,5,0,7,41.7,41.7,Low disclosure (<50%),1,No
+17548,N.O.370 Pre-Workout Formula Fruit Punch,24,11,0,13,45.8,45.8,Low disclosure (<50%),1,No
+17699,Mr Hyde Pre Workout Amplifier Punch,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+177232,Organic Pre-Workout Apple Ginger,16,6,0,10,37.5,37.5,Low disclosure (<50%),1,No
+177235,Organic Pre-Workout Black Cherry,16,6,0,10,37.5,37.5,Low disclosure (<50%),1,No
+177236,Organic Pre-Workout Chocolate,16,6,0,10,37.5,37.5,Low disclosure (<50%),1,No
+180041,E.S.P. Pre-Workout Blue Raspberry,14,3,4,7,21.4,50,Low disclosure (<50%),1,No
+180051,E.S.P. Pre-Workout Fruit Punch,14,3,4,7,21.4,50,Low disclosure (<50%),1,No
+180059,E.S.P. Pre-Workout Green Apple,14,3,4,7,21.4,50,Low disclosure (<50%),1,No
+180062,E.S.P. Pre-Workout Watermelon,14,3,4,7,21.4,50,Low disclosure (<50%),1,No
+18125,Nano Vapor Hardcore Pre-Workout Formula Sour Apple,19,14,0,5,73.7,73.7,Moderate disclosure (50–<80%),2,No
+181976,Weapon-X Pre-Workout Extreme,12,1,0,11,8.3,8.3,Low disclosure (<50%),1,No
+182473,Rainmaker Extreme Energy Pre-Workout Raspberry Lemonade,18,18,0,0,100,100,Full disclosure (100%),4,Yes
+182570,Rainmaker Extreme Energy Pre-Workout Sour Apple,18,18,0,0,100,100,Full disclosure (100%),4,Yes
+182654,Pre-Workout Watermelon,6,5,0,1,83.3,83.3,High disclosure (80–<100%),3,No
+182657,Pre-Workout Raspberry Lemonade,6,5,0,1,83.3,83.3,High disclosure (80–<100%),3,No
+182691,Rainmaker Extreme Energy Pre-Workout Raspberry Lemonade,18,18,0,0,100,100,Full disclosure (100%),4,Yes
+182705,Rainmaker Extreme Energy Pre-Workout Sour Apple,18,18,0,0,100,100,Full disclosure (100%),4,Yes
+19116,Ripped Freak RF Pre-Workout Blue Raspberry Flavor,7,1,0,6,14.3,14.3,Low disclosure (<50%),1,No
+19251,BRX Body Rush X Pre-Workout Watermelon,7,5,0,2,71.4,71.4,Moderate disclosure (50–<80%),2,No
+19252,BRX Body Rush X Pre-Workout Blue Raz,7,5,0,2,71.4,71.4,Moderate disclosure (50–<80%),2,No
+200650,InstaGator Pre-Workout Coconut Margarita,6,6,0,0,100,100,Full disclosure (100%),4,Yes
+200653,InstaGator Pre-Workout Whipped Orange Cream,6,6,0,0,100,100,Full disclosure (100%),4,Yes
+200655,InstaGator Pre-Workout Rainbow Sherbet,6,6,0,0,100,100,Full disclosure (100%),4,Yes
+202315,Pre-Workout Citrus Dew,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+202318,Pre-Workout Cotton Candy Grape,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+202582,Intense Pre-Workout Boost Citrus Burst Flavored,29,14,0,15,48.3,48.3,Low disclosure (<50%),1,No
+202960,Pre Workout Tropical Pineapple,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+203233,Pre Workout Blueberry Lemonade,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+204332,Pre Workout Grape Flavor,15,7,0,8,46.7,46.7,Low disclosure (<50%),1,No
+204384,Pre Workout Strawberry Kiwi Flavor,15,7,0,8,46.7,46.7,Low disclosure (<50%),1,No
+204391,Pre Workout Strawberry Kiwi Flavor,15,7,0,8,46.7,46.7,Low disclosure (<50%),1,No
+205171,Amino Power Pre-Workout Natural Raspberry,12,9,0,3,75,75,Moderate disclosure (50–<80%),2,No
+206189,Super Charge! Pre-Workout Grape,26,18,0,8,69.2,69.2,Moderate disclosure (50–<80%),2,No
+206191,Super Charge! Pre-Workout Watermelon,26,18,0,8,69.2,69.2,Moderate disclosure (50–<80%),2,No
+207647,Pre Workout Blue Raspberry,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+207651,Pre Workout Cherry Limeade,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+207680,Pre Workout Fruit Punch,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+210095,Clash Fully Loaded Pre-Workout,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+213960,Natural Pre Workout Carnival Candy,6,6,0,0,100,100,Full disclosure (100%),4,Yes
+213962,Natural Pre Workout Island Mist,6,6,0,0,100,100,Full disclosure (100%),4,Yes
+213966,Pinnacle Pre-Workout Maui Crush,14,10,0,4,71.4,71.4,Moderate disclosure (50–<80%),2,No
+213970,Pinnacle Pre-Workout Pink Slushee,14,10,0,4,71.4,71.4,Moderate disclosure (50–<80%),2,No
+215456,Ketogenic Pre-Workout Pink Lemonade,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+215460,Ketogenic Pre-Workout Star Berry Savers,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+215633,K-XR Pre-Workout Miami Vice,13,5,0,8,38.5,38.5,Low disclosure (<50%),1,No
+218901,Keto Pre-Workout Watermelon Chill,11,8,0,3,72.7,72.7,Moderate disclosure (50–<80%),2,No
+229010,Bucked Up Pre-Workout Blue Raz,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+229016,Bucked Up Pre-Workout Gym N' Juice,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+229018,Bucked Up Pre-Workout 'Merica Rocket Pop,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+229041,Bucked Up Pre-Workout Strawberry Kiwi,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+229051,Bucked Up Pre-Workout Watermelon,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+230324,NitroSurge Pre-Workout Blue Raspberry,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+233622,Helios Pre Workout Atomic Bombsicle,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+233626,Helios Pre Workout Blue Razz,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+235589,Hooligan Extreme Pre-Workout Formula Strawberry Margarita,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+239974,5150 High Stimulant Pre-Workout Green Apple,19,10,0,9,52.6,52.6,Moderate disclosure (50–<80%),2,No
+240233,Pre Workout Raspberry Punch,18,18,0,0,100,100,Full disclosure (100%),4,Yes
+242064,Savage Pre-Workout Blue Raspberry,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+243793,Klean Pre-Workout Natural Lemon Tea Flavor,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+243942,Organic Pre-Workout Passionfruit Guava,29,6,0,23,20.7,20.7,Low disclosure (<50%),1,No
+243944,Organic Pre-Workout Strawberry Mango,28,5,0,23,17.9,17.9,Low disclosure (<50%),1,No
+243982,Klean Pre-Workout Natural Lemon Tea Flavor,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+244013,Pre-Workout Pink Blast,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+244022,Pre-Workout Electric Lemonade,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+244118,Sasquatch Pre-Workout,21,21,0,0,100,100,Full disclosure (100%),4,Yes
+245694,Energizing Pre-Workout Pink Lemonade,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+246833,Zuum Pre-Workout Sour Green Apple,12,11,0,1,91.7,91.7,High disclosure (80–<100%),3,No
+247878,Pre-Workout Aloha Pineapple,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+248858,Wrecked Pre-Workout Rainbow Burst,25,18,0,7,72,72,Moderate disclosure (50–<80%),2,No
+248861,Bucked Up Pre-Workout Grape Gainz,13,10,0,3,76.9,76.9,Moderate disclosure (50–<80%),2,No
+248864,Spazmatic Pre-Workout Drink Watermelon Taffy,19,16,0,3,84.2,84.2,High disclosure (80–<100%),3,No
+249302,Rage Extreme Pre-Workout Pineapple Splash,16,12,0,4,75,75,Moderate disclosure (50–<80%),2,No
+249994,Black Powder Pre Workout,26,26,0,0,100,100,Full disclosure (100%),4,Yes
+252036,Gainful Pre-Workout Sour Watermelon,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+255344,Gold Standard Pre-Workout Fruit Punch,21,18,0,3,85.7,85.7,High disclosure (80–<100%),3,No
+256278,Bucked Up Pre-Workout Blue Snow Cone,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+256288,Bucked Up Pre-Workout Red Snow Cone,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+25737,Volt Pre-Workout Watermelon,12,3,0,9,25,25,Low disclosure (<50%),1,No
+257528,K-XR Original Pre-Workout Blackberry Lemonade,19,13,0,6,68.4,68.4,Moderate disclosure (50–<80%),2,No
+257529,K-XR Original Pre-Workout Gummy Bear,18,12,0,6,66.7,66.7,Moderate disclosure (50–<80%),2,No
+257530,K-XR Original Pre-Workout Miami Vice,18,12,0,6,66.7,66.7,Moderate disclosure (50–<80%),2,No
+257531,K-XR Original Pre-Workout Patriot Pop,18,12,0,6,66.7,66.7,Moderate disclosure (50–<80%),2,No
+257532,K-XR Original Pre-Workout Peach Mango,18,12,0,6,66.7,66.7,Moderate disclosure (50–<80%),2,No
+257774,SuperPump Aggression Pre-Workout Lights Out Lemon,14,14,0,0,100,100,Full disclosure (100%),4,Yes
+258636,Pre-Workout Drink Mix Dragon Fruit,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+259898,Klean Pre-Workout Natural Lemon Tea Flavor,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+259904,Klean Pre-Workout Natural Lemon Tea Flavor,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+260041,Pre-Workout Explosion Fruit Punch,16,8,0,8,50,50,Moderate disclosure (50–<80%),2,No
+260876,V1 Pre-Workout Mango Peach Rings,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+261086,Alphagen High Energy Pre-Workout Blackberry Lemonade,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+261152,Mr Hyde Icon Pre Workout Poseidon Blueberry Lemon Wrath,25,25,0,0,100,100,Full disclosure (100%),4,Yes
+261156,Mr Hyde Icon Pre Workout Athena Mango Citrus Warfare,26,20,0,6,76.9,76.9,Moderate disclosure (50–<80%),2,No
+261158,Mr Hyde Icon Pre Workout Zeus Raspberry Lime Thunder,26,20,0,6,76.9,76.9,Moderate disclosure (50–<80%),2,No
+261160,Hyde Pre Workout Blue Raspberry,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+261364,Rise Pre-Workout Blackberry Blast,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+261367,Pre-Workout for Women Pina Colada,8,8,0,0,100,100,Full disclosure (100%),4,Yes
+263197,PreFo Extremely Concentrated Pre-Workout Candy Keys,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+263198,PreFo Extremely Concentrated Pre-Workout Strawberry Marshmallow Candy,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+264517,Pre-Workout Baja Burst,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+264520,Pre-Workout Candy Watermelon,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+264524,Pre-Workout Mango Extreme,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+264526,SunnyD Pre-Workout Tangy Original,14,14,0,0,100,100,Full disclosure (100%),4,Yes
+265343,Hooligan Extreme Pre-Workout Formula Pain Killer,23,22,0,1,95.7,95.7,High disclosure (80–<100%),3,No
+265418,Assault Pre-Workout Blue Raspberry,15,12,0,3,80,80,High disclosure (80–<100%),3,No
+265446,Assault Pre-Workout Fruit Punch,15,12,0,3,80,80,High disclosure (80–<100%),3,No
+265452,Pre-Workout Pink Candy Blast,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+265498,Pre Workout Strawberry Lemonade,16,12,0,4,75,75,Moderate disclosure (50–<80%),2,No
+267083,High Energy Pre-Workout Raspberry Lemonade,18,8,0,10,44.4,44.4,Low disclosure (<50%),1,No
+268565,Prophecy Ultimate Pre-Workout Peach Mango,26,19,0,7,73.1,73.1,Moderate disclosure (50–<80%),2,No
+268684,Godzilla Pre-Workout Monsterberry Lime,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+270994,ION Pre-Workout Blue Ice,8,8,0,0,100,100,Full disclosure (100%),4,Yes
+2722,RapidDrive Pre-Workout Amino Complex Fruit Punch,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+272539,Pre-Workout Powder Blue Raspberry Flavor,18,9,0,9,50,50,Moderate disclosure (50–<80%),2,No
+272885,Go Pre-Workout Whoop Assault Watermelon,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+272888,Go Pre-Workout Mango Mayhem,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+272898,Go Pre-Workout Sour Apple Sniper,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+273080,Pre-Workout Powder Fruit Punch Flavor,18,9,0,9,50,50,Moderate disclosure (50–<80%),2,No
+273082,Pre-Workout Powder Mango Flavor,18,9,0,9,50,50,Moderate disclosure (50–<80%),2,No
+273084,Pre-Workout Powder Watermelon Flavor,18,9,0,9,50,50,Moderate disclosure (50–<80%),2,No
+273133,Hooligan Extreme Pre-Workout Formula Strawberry Margarita,24,23,0,1,95.8,95.8,High disclosure (80–<100%),3,No
+275596,Pre-Workout Blueberry Raspberry,8,4,0,4,50,50,Moderate disclosure (50–<80%),2,No
+275689,Amplify Pump Pre Workout Peach Mango,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+275690,Amplify Pump Pre Workout Watermelon,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+275691,Amplify Pump Pre Workout Unflavored,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+275692,Amplify Pump Pre Workout Sour Lemonade,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+277638,Pre-Workout Arctic White,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+277643,Pre-Workout Mimosa,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+278364,Pre-Workout Complex Tropical Punch,21,18,0,3,85.7,85.7,High disclosure (80–<100%),3,No
+278413,Pre-Workout Don't Be A Beach,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+278414,Pre-Workout Sherbet Swirl,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+278415,Pre-Workout Sour Kiwiberry,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+282491,Pre-Workout Non-Stimulant Raspberry Lime Ricky,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+284034,Pre-Workout Explosion Icy Rocket Freeze,17,9,0,8,52.9,52.9,Moderate disclosure (50–<80%),2,No
+284035,Pre-Workout Explosion Pink Lemonade,16,8,0,8,50,50,Moderate disclosure (50–<80%),2,No
+284036,Pre-Workout Explosion Ripped Watermelon,16,10,0,6,62.5,62.5,Moderate disclosure (50–<80%),2,No
+285367,Black Powder Pre-Workout Cocoberry Boom,26,26,0,0,100,100,Full disclosure (100%),4,Yes
+285602,Pre-Workout Non-Stimulant Orange Mango,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+286247,Pre JYM High-Performance Pre-Workout Rainbow Sherbet,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+286256,Pre JYM X Advanced Pre-Workout Complex Rise 'N' Grind,24,21,0,3,87.5,87.5,High disclosure (80–<100%),3,No
+286800,Pre-Workout Strawberry Lemonade Flavored,8,8,0,0,100,100,Full disclosure (100%),4,Yes
+286922,AC8 Pre Workout Blue Raspberry Flavour,8,8,0,0,100,100,Full disclosure (100%),4,Yes
+288061,Pre JYM X Advanced Pre-Workout Complex Shockwave,25,22,0,3,88,88,High disclosure (80–<100%),3,No
+288062,Pre JYM X Advanced Pre-Workout Complex Tiger's Blood,23,20,0,3,87,87,High disclosure (80–<100%),3,No
+288570,Thavage Pre-Workout Dragon Fruit,21,21,0,0,100,100,Full disclosure (100%),4,Yes
+292535,Dissolvable Pre-Workout Packs Extreme Rainbow Candy,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+292630,Shatter Ripped Pre-Workout Rainbow Candy,13,11,0,2,84.6,84.6,High disclosure (80–<100%),3,No
+292631,Shatter Ripped Pre-Workout Icy Rocket,13,11,0,2,84.6,84.6,High disclosure (80–<100%),3,No
+295375,Mr Hyde Test Surge Pre-Workout Pineapple Mango,21,19,1,1,90.5,95.2,High disclosure (80–<100%),3,No
+295377,Hyde Pre Workout Watermelon,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+295400,Mr Hyde Signature Pre-Workout Blue Razz Popsicle,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+295401,Mr Hyde Signature Pre-Workout Lollipop Punch,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+295925,Wrecked Pre-Workout Bomb Popsicle,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+296436,Pre-Workout Tropical Fruit Flavored,8,8,0,0,100,100,Full disclosure (100%),4,Yes
+297206,Prevail Pre-Workout Primer Tropical Punch,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+297408,Prolific Pre-Workout Cotton Candy,8,8,0,0,100,100,Full disclosure (100%),4,Yes
+299104,Pre-Workout Powder Blue Raspberry,16,7,0,9,43.8,43.8,Low disclosure (<50%),1,No
+299105,Pre-Workout Powder Fruit Punch,16,7,0,9,43.8,43.8,Low disclosure (<50%),1,No
+299106,Pre-Workout Powder Mango,16,7,0,9,43.8,43.8,Low disclosure (<50%),1,No
+299107,Pre-Workout Powder Watermelon,16,7,0,9,43.8,43.8,Low disclosure (<50%),1,No
+299215,Koala Freak Pre-Workout Aussie Fruit,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+299227,Pre-Workout Blue Raspberry Ring Pop,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+299228,Godzilla Pre-Workout Blackberry Lemonade,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+299229,Pre-Workout Baja Burst,14,14,0,0,100,100,Full disclosure (100%),4,Yes
+299818,Wrecked Extreme Pre-Workout Jungle Candy,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+299819,Wrecked Pre-Workout Raspberry Mojito,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+300243,Spazmatic Pre-Workout Drink Strawberry Frozen Fruit Bar,18,15,0,3,83.3,83.3,High disclosure (80–<100%),3,No
+300253,Pandamic Pre-Workout Dragon's Blood,18,18,0,0,100,100,Full disclosure (100%),4,Yes
+302100,ENGN Shred Pre-Workout Engine Shred Pink Lemonade,22,19,0,3,86.4,86.4,High disclosure (80–<100%),3,No
+303410,Bucked Up Pre-Workout Killa OJ,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+303411,Bucked Up Pre-Workout Grape Gainz,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+303521,Godzilla Pre-Workout Monsterberry Lime,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+304068,Pre-Workout Raspberry Pomegranate,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+304368,Joker Extreme Pre-Workout Mango,19,8,0,11,42.1,42.1,Low disclosure (<50%),1,No
+305073,Organic Pre-Workout Island Fusion Flavored,14,14,0,0,100,100,Full disclosure (100%),4,Yes
+305214,Ultimate Pre-Workout Blue Razz,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+305215,Pre-Workout Tropical Candy,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+306348,Woke AF Pre-Workout Buck Berry,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+306381,PRE Pre-Workout Complex Blue Raspberry,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+306382,Pre-Workout Complex Blue Raspberry,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+308247,PRE Pre-Workout Complex Blue Raspberry,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+308248,PRE Pre-Workout Complex Fruit Punch,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+308249,PRE Pre-Workout Complex Grape,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+308250,PRE Pre-Workout Complex Peach Mango,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+308251,PRE Pre-Workout Complex Watermelon,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+308428,Gold Standard Pre-Workout Blueberry Lemonade,18,15,0,3,83.3,83.3,High disclosure (80–<100%),3,No
+309633,Zuum Pre-Workout Tiger's Blood,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+309634,Zuum Pre-Workout Wild Blueberry Acai,8,8,0,0,100,100,Full disclosure (100%),4,Yes
+309959,Preseries Lean Pre-Workout Tropical Punch,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+310076,Cutler Prevail Pre-Workout Primer Peach Mango,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+310077,Prevail Pre-Workout Primer Watermelon,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+310078,Prevail Pre-Workout Primer Rainbow Freeze,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+310079,Prevail Pre-Workout Primer Sour Blue Straws,12,11,0,1,91.7,91.7,High disclosure (80–<100%),3,No
+310080,Prevail Pre-Workout Primer Sour Lime Gummy Worm,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+311801,PRE Pre-Workout Complex Fruit Punch,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+311872,PRE Pre-Workout Complex Grape,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+311873,PRE Pre-Workout Complex Peach Mango,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+312628,Bucked Up Pre-Workout Blood Raz,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+313041,Violence Pre-Workout Brutal Blood Orange,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+313189,Thuper Thavage Pre-Workout White Cherry,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+31485,Volt Pre-Workout Electric Punch,12,3,0,9,25,25,Low disclosure (<50%),1,No
+314860,Natural Pre-Workout Green Apple,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+31491,Volt Pre-Workout Berry Pomegranate,12,3,0,9,25,25,Low disclosure (<50%),1,No
+314974,Pre Workout Grape Flavor,21,5,0,16,23.8,23.8,Low disclosure (<50%),1,No
+314976,Pre Workout Lemon Flavor,21,5,0,16,23.8,23.8,Low disclosure (<50%),1,No
+314977,Pre Workout Strawberry Kiwi Flavor,21,5,0,16,23.8,23.8,Low disclosure (<50%),1,No
+314981,Pre Workout Strawberry Kiwi Flavor,21,5,0,16,23.8,23.8,Low disclosure (<50%),1,No
+315155,Pre-Workout Hawaiian Shaved Ice,6,6,0,0,100,100,Full disclosure (100%),4,Yes
+315564,Essential Pre-Workout Orange,8,8,0,0,100,100,Full disclosure (100%),4,Yes
+316362,Natural Pre-Workout Pink Lemonade,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+31679,Mr Hyde Pre Workout Amplifier Orange Guava,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+31681,Mr Hyde Pre Workout Amplifier Grape,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+31689,Mr Hyde Pre Workout Amplifier Blue Razz,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+31735,Mr Hyde Intense Energy Pre Workout Punch,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+31738,Mr Hyde Intense Energy Pre Workout Watermelon,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+317414,Pre-Workout West Coast Citrus,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+317710,V1 x Panda Ultimate Pandamus Pre-Workout Level 1,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+3178,Torch Pre-Burn Pre-Workout Drink Wildberry,26,26,0,0,100,100,Full disclosure (100%),4,Yes
+318597,Prolific Pre-Workout Melon Berry Twist,8,8,0,0,100,100,Full disclosure (100%),4,Yes
+321219,Pre-Workout Cosmic Stardust,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+321220,Pre-Workout Day Dreamer Cherry Gummies,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+321221,Pre-Workout Galaxy Lemonade,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+321222,Pre-Workout Hawaiian Shaved Ice,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+321223,Pre-Workout Island Crush,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+321224,Pre-Workout Juicy Peach,6,6,0,0,100,100,Full disclosure (100%),4,Yes
+321225,Pre-Workout Mimosa,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+321226,Pre-Workout Rainbow Candy,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+321227,Pre-Workout Rocket Pop,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+321539,EUPHORiq Pre-Workout Yuzu Lemonade,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+321540,EUPHORiq Pre-Workout Watermelon Candy,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+321541,EUPHORiq Pre-Workout Icy Snow Cone,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+321871,Gorilla Mode Pre-Workout Formula Firefly Lemonade,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+321873,Gorilla Mode Pre-Workout Formula Jungle Juice,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+321874,Gorilla Mode Pre-Workout Formula Mouthwatering Watermelon,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+322543,Nitrosurge Pre-Workout Arctic White,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+322544,Nitrosurge Pre-Workout Black Cherry,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+322546,PumpSurge Stim Free Pre-Workout Blue Raspberry,6,6,0,0,100,100,Full disclosure (100%),4,Yes
+322675,Pre-Workout Explosion Ripped Watermelon,16,10,0,6,62.5,62.5,Moderate disclosure (50–<80%),2,No
+322678,Pre-Workout Explosion Ripped Peach Mango,16,10,0,6,62.5,62.5,Moderate disclosure (50–<80%),2,No
+323126,Pre-Workout Elite Citrus Berry Flavored,12,6,0,6,50,50,Moderate disclosure (50–<80%),2,No
+323178,Dr Jekyll Stimulant-Free Signature Pre-Workout Blueberry Lemonade,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+323212,Pre-Workout Lemon Berry,29,5,0,24,17.2,17.2,Low disclosure (<50%),1,No
+323436,NitroSurge Pre-Workout Blueberry Lemonade,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+323437,NitroSurge Pre-Workout Cherry Limeade,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+323438,NitroSurge Pre-Workout Cotton Candy,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+323439,NitroSurge Pre-Workout Fruit Punch,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+323440,NitroSurge Pre-Workout Grape,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+323441,NitroSurge Pre-Workout Green Apple,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+323442,NitroSurge Pre-Workout Pineapple,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+323443,NitroSurge Pre-Workout Sour Peach Rings,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+323444,NitroSurge Pre-Workout Watermelon,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+323714,Gorilla Mode Pre-Workout Formula Jungle Juice,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+325569,Pre-Workout Breezeberry,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+326386,ENGN Pre-Workout Blue Raz,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+326387,ENGN Pre-Workout Cherry Limeade,19,19,0,0,100,100,Full disclosure (100%),4,Yes
+326388,ENGN Pre-Workout Engine Furious Grape,19,19,0,0,100,100,Full disclosure (100%),4,Yes
+326389,ENGN Pre-Workout Pink Lemonade,19,19,0,0,100,100,Full disclosure (100%),4,Yes
+326390,ENGN Pre-Workout Pink Starblast,19,19,0,0,100,100,Full disclosure (100%),4,Yes
+326391,ENGN Pre-Workout Ring Candy,20,20,0,0,100,100,Full disclosure (100%),4,Yes
+326393,ENGN Shred Pre-Workout Blue Raz,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+326394,ENGN Shred Pre-Workout Grape,22,19,0,3,86.4,86.4,High disclosure (80–<100%),3,No
+326408,RPM Pre-Workout Blue Raz,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+326409,RPM Pre-Workout Blue Raz Sample Pack,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+326772,ENGN Shred Pre-Workout Cherry Limeade,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+326773,ENGN Shred Pre-Workout Fruit Punch,22,19,0,3,86.4,86.4,High disclosure (80–<100%),3,No
+327071,Pre-Workout with Caffeine Mango,8,8,0,0,100,100,Full disclosure (100%),4,Yes
+327778,RPM Pre-Workout Peach Rings,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+328174,Pre-Workout Boost Green Apple,21,11,0,10,52.4,52.4,Moderate disclosure (50–<80%),2,No
+328175,Pre-Workout Boost Green Apple,21,11,0,10,52.4,52.4,Moderate disclosure (50–<80%),2,No
+328176,Pre-Workout Boost Blue Raspberry Flavored,21,11,0,10,52.4,52.4,Moderate disclosure (50–<80%),2,No
+328177,Pre-Workout Boost Blue Raspberry Flavored,21,11,0,10,52.4,52.4,Moderate disclosure (50–<80%),2,No
+328267,Pre-Workout Caffeine Free Strawberry Lemonade,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+328268,Pre-Workout with Caffeine Strawberry Lemonade,8,8,0,0,100,100,Full disclosure (100%),4,Yes
+328423,Bucked Up Pre-Workout Apple Spice,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+328424,Bucked Up Pre-Workout Caramel Apple,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+328425,Bucked Up Pre-Workout Cherry Candy,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+328426,Bucked Up Pre-Workout Gold,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+328487,Dethroner Pre-Workout Pineapple Mango Coconut,24,24,0,0,100,100,Full disclosure (100%),4,Yes
+329149,Pre-Workout Witch's Brew,6,6,0,0,100,100,Full disclosure (100%),4,Yes
+329410,Bucked Up Pre-Workout Iced Tea Lemonade,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+329411,Bucked Up Pre-Workout Cherry Candy,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+332311,EUPHORiQ Pre-Workout Boogieman Punch,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+332658,Pre Workout Grape Flavor,21,5,0,16,23.8,23.8,Low disclosure (<50%),1,No
+332659,Pre Workout Lemon Flavor,21,5,0,16,23.8,23.8,Low disclosure (<50%),1,No
+33286,ENGN Pre-Workout Engine Fruit Punch,18,9,0,9,50,50,Moderate disclosure (50–<80%),2,No
+33359,ENGN Pre-Workout Engine Watermelon,18,9,0,9,50,50,Moderate disclosure (50–<80%),2,No
+333687,WRN Pre-Workout Fruit Punch,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+333688,WRN Pre-Workout Lemonade,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+333689,WRN Pre-Workout Strawberry Kiwi,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+333985,Pre-Workout Yuzu & Peach,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+333987,Woke AF Nootropic Pre-Workout Yuzu & Peach,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+333988,Bucked Up Pre-Workout KO Kiwi,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+333990,Woke AF Nootropic Pre-Workout KO Kiwi,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+333991,Woke AF Pre-Workout Cherry Candy,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+333992,Woke AF Pre-Workout Sour Bucks,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+333993,Woke AF Pre-Workout White Gummy Deer,13,13,0,0,100,100,Full disclosure (100%),4,Yes
+334776,Pre JYM X Advanced Pre-Workout Complex Dragonberry,24,21,0,3,87.5,87.5,High disclosure (80–<100%),3,No
+335683,Pre-Workout Nutrients,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+336631,Pre-Workout Blue Slush,6,6,0,0,100,100,Full disclosure (100%),4,Yes
+336632,Pre-Workout Strawberry Sunrise,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+336633,Pre-Workout+ Rocket Pop,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+336634,Pre-Workout+ Frozen Lemonade,10,10,0,0,100,100,Full disclosure (100%),4,Yes
+339538,Thuper Thavage Pre-Workout White Cherry,21,15,0,6,71.4,71.4,Moderate disclosure (50–<80%),2,No
+39120,Mr Hyde Intense Energy Pre Workout Red Razz,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+39426,Volt Pre-Workout Lemon Berry,12,3,0,9,25,25,Low disclosure (<50%),1,No
+41558,Pre Workout Ritual Candy Green Apple,16,9,0,7,56.2,56.2,Moderate disclosure (50–<80%),2,No
+41576,Mr Hyde Intense Energy Pre Workout Blue Razz,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+41579,Mr Hyde Intense Energy Pre Workout Cherry Bomb,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+41580,Mr Hyde Intense Energy Pre Workout Fruit Punch,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+41581,Mr Hyde Intense Energy Pre Workout Green Apple,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+41582,Mr Hyde Intense Energy Pre Workout Mango Passion Fruit,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+41583,Mr Hyde Intense Energy Pre Workout Orange Burst,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+41584,Mr Hyde Intense Energy Pre Workout Watermelon,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+41586,Mr Hyde Intense Energy Pre Workout Watermelon,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+41587,Mr Hyde Intense Energy Pre Workout Blue Razz,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+41588,Mr Hyde Intense Energy Pre Workout Fruit Punch,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+41590,Mr Hyde Intense Energy Pre Workout Orange Burst,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+42244,Gold Standard Pre-Workout Blueberry Lemonade,18,15,0,3,83.3,83.3,High disclosure (80–<100%),3,No
+42617,Mr Hyde Intense Energy Pre Workout Blue Razz,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+42659,Mr Hyde Intense Energy Pre Workout Fruit Punch,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+42660,Mr Hyde Intense Energy Pre Workout Watermelon,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+42661,Mr Hyde Intense Energy Pre Workout Blue Razz,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+43580,Clean Pre Workout Raspberry Lemonade Flavor,39,19,0,20,48.7,48.7,Low disclosure (<50%),1,No
+47622,Mr Hyde Intense Pre Workout Berry Blast,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47637,Mr Hyde Intense Energy Pre Workout Cotton Candy,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47638,Mr Hyde Intense Energy Pre Workout Berry Blast,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+47640,Mr Hyde Intense Energy Pre Workout Blue Razz,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+47641,Mr Hyde Intense Energy Pre Workout Cherry Bomb,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+47642,Mr Hyde Intense Energy Pre Workout Fruit Punch,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+47643,Mr Hyde Intense Energy Pre Workout Green Apple,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+47644,Mr Hyde Intense Energy Pre Workout Mango Passion Fruit,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+47645,Mr Hyde Intense Energy Pre Workout Orange Burst,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+47838,Mr Hyde Intense Energy Pre Workout Blue Razz,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47842,Mr Hyde Intense Energy Pre Workout Blue Razz,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47845,Mr Hyde Intense Energy Pre Workout Fruit Punch,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47849,Mr Hyde Intense Energy Pre Workout Green Apple,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47850,Mr Hyde Intense Energy Pre Workout Orange Burst,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47852,Mr Hyde Intense Energy Pre Workout Red Razz,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47854,Mr Hyde Intense Energy Pre Workout Watermelon,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47968,Mr Hyde Intense Pre Workout Berry Blast,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47970,Mr Hyde Intense Energy Pre Workout Blue Razz,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47971,Mr Hyde Intense Energy Pre Workout Cherry Bomb,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47972,Mr Hyde Intense Energy Pre Workout Cotton Candy,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47973,Mr Hyde Intense Energy Pre Workout Fruit Punch,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47975,Mr Hyde Intense Energy Pre Workout Green Apple,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47977,Mr Hyde Intense Energy Pre Workout Mango Passion Fruit,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47978,Mr Hyde Intense Energy Pre Workout Mango Orange Burst,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47979,Mr Hyde Intense Energy Pre Workout Watermelon,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+47980,Mr Hyde Intense Energy Pre Workout Fruit Punch,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+49177,Mr Hyde Intense Energy Pre Workout Fruit Punch,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+49184,Mr Hyde Intense Energy Pre Workout Orange Burst,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+49186,Mr Hyde Intense Energy Pre Workout Fruit Punch,16,15,0,1,93.8,93.8,High disclosure (80–<100%),3,No
+49198,Mr Hyde Intense Energy Pre Workout Sweet Tea,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+49458,Mr Hyde Intense Energy Pre Workout Watermelon,15,15,0,0,100,100,Full disclosure (100%),4,Yes
+49522,Mr Hyde Intense Energy Pre Workout Green Apple,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+49523,Mr Hyde Intense Energy Pre Workout Blue Razz,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+49524,Mr Hyde Intense Energy Pre Workout Cotton Candy,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+50153,Mr Hyde Intense Energy Pre Workout Fruit Punch,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+57278,Clean Pre Workout Raspberry Lemonade Flavor,40,19,0,21,47.5,47.5,Low disclosure (<50%),1,No
+58291,Clean Pre-Workout Fruit Punch,7,7,0,0,100,100,Full disclosure (100%),4,Yes
+58836,Pre-Workout N.O. Fury Fruit Punch,19,9,1,9,47.4,52.6,Low disclosure (<50%),1,No
+62708,C4 50X Pre-Workout Icy Blue Razz,15,10,0,5,66.7,66.7,Moderate disclosure (50–<80%),2,No
+63149,Pre-Workout Explosioin Fruit Punch,17,7,1,9,41.2,47.1,Low disclosure (<50%),1,No
+65428,Gold Standard Pre-Workout Strawberry Lime,20,15,0,5,75,75,Moderate disclosure (50–<80%),2,No
+65771,Pre Workout Island Fruit flavor,11,11,0,0,100,100,Full disclosure (100%),4,Yes
+66354,Pre-Workout Nuclear X Sour Apple,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+66357,Pre-Workout Nuclear X Citrus Surge,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+66359,Pre-Workout Nuclear X Radioactive Punch,8,8,0,0,100,100,Full disclosure (100%),4,Yes
+66360,Pre-Workout Nuclear X Watermelon,9,9,0,0,100,100,Full disclosure (100%),4,Yes
+66904,Mr Hyde Intense Pre Workout Berry Blast,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+66905,Mr Hyde Intense Energy Pre Workout Blue Razz,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+66906,Mr Hyde Intense Energy Pre Workout Cherry Bomb,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+66908,Mr Hyde Intense Energy Pre Workout Cotton Candy,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+66911,Mr Hyde Intense Energy Pre Workout Fruit Punch,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+66947,Mr Hyde Intense Energy Pre Workout Green Apple,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+66949,Mr Hyde Intense Energy Pre Workout Mango Passion Fruit,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+66952,Mr Hyde Intense Energy Pre Workout Orange Burst,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+66954,Mr Hyde Intense Energy Pre Workout Watermelon,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+67132,Pre-Workout Ignition Elite Series Fruit Punch,7,1,0,6,14.3,14.3,Low disclosure (<50%),1,No
+69559,Non-GMO Pre-Workout West Coast Citrus,5,5,0,0,100,100,Full disclosure (100%),4,Yes
+69666,Mr Hyde Intense Energy Pre Workout Fruit Punch,16,16,0,0,100,100,Full disclosure (100%),4,Yes
+72818,Pre Workout Blue Raspberry,12,12,0,0,100,100,Full disclosure (100%),4,Yes
+77227,Pre-Workout Complex Blue Raspberry,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+77261,Pre-Workout For Women Strawberry,17,17,0,0,100,100,Full disclosure (100%),4,Yes
+78988,Clean Pre Workout Raspberry Lemonade Flavor,38,18,0,20,47.4,47.4,Low disclosure (<50%),1,No
+80043,Best Pre Workout Apple Pear,12,3,0,9,25,25,Low disclosure (<50%),1,No
+80048,Best Pre Workout Blue Lemon Ice,12,3,0,9,25,25,Low disclosure (<50%),1,No
+80052,Best Pre Workout Tropical Freeze,12,3,0,9,25,25,Low disclosure (<50%),1,No
+80062,Best Pre Workout Watermelon Ice,12,3,0,9,25,25,Low disclosure (<50%),1,No
+83160,Volt Pre-Workout Berry Pomegranate,12,3,0,9,25,25,Low disclosure (<50%),1,No
+83163,Volt Pre-Workout Electric Punch,12,3,0,9,25,25,Low disclosure (<50%),1,No
+83164,Volt Pre-Workout Electric Punch,12,3,0,9,25,25,Low disclosure (<50%),1,No
+83165,Volt Pre-Workout Lemon Berry,12,3,0,9,25,25,Low disclosure (<50%),1,No
+83166,Volt Pre-Workout Watermelon,12,3,0,9,25,25,Low disclosure (<50%),1,No
